@@ -1,0 +1,7 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Internet permission is intentionally NOT declared for release
+         builds. It is only added here, in the debug manifest, because
+         the Flutter tool's debug/hot-reload connection needs it on some
+         devices - it has zero effect on the app's offline behavior. -->
+    <uses-permission android:name="android.permission.INTERNET"/>
+</manifest>
