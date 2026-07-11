@@ -1,0 +1,11 @@
+# This file is generated automatically by Flutter/Android Studio the first
+# time you run `flutter pub get` or open the project, and is intentionally
+# NOT committed to version control (it contains machine-specific paths).
+#
+# It should contain lines similar to:
+#
+# sdk.dir=/Users/yourname/Library/Android/sdk
+# flutter.sdk=/Users/yourname/development/flutter
+#
+# If it is missing, just run `flutter pub get` once from the project root
+# and Flutter will create it for you automatically.
